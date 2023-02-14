@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. Two Sum/1. Two Sum.iml" filepath="$PROJECT_DIR$/1. Two Sum/1. Two Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. Regular Expression Matching/10. Regular Expression Matching.iml" filepath="$PROJECT_DIR$/10. Regular Expression Matching/10. Regular Expression Matching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. Container With Most Water/11. Container With Most Water.iml" filepath="$PROJECT_DIR$/11. Container With Most Water/11. Container With Most Water.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14. Longest Common Prefix/14. Longest Common Prefix.iml" filepath="$PROJECT_DIR$/14. Longest Common Prefix/14. Longest Common Prefix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15. 3Sum/15. 3Sum.iml" filepath="$PROJECT_DIR$/15. 3Sum/15. 3Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17. Letter Combiinations of a Phone Number/17. Letter Combiinations of a Phone Number.iml" filepath="$PROJECT_DIR$/17. Letter Combiinations of a Phone Number/17. Letter Combiinations of a Phone Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. Add Two Numbers/2. Add Two Numbers.iml" filepath="$PROJECT_DIR$/2. Add Two Numbers/2. Add Two Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. Longest substring/3. Longest substring.iml" filepath="$PROJECT_DIR$/3. Longest substring/3. Longest substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36. Valid Suboku/36. Valid Suboku.iml" filepath="$PROJECT_DIR$/36. Valid Suboku/36. Valid Suboku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/4. Median of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/4. Median of Two Sorted Arrays/4. Median of Two Sorted Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. Longest Palindromic Substring/5. Longest Palindromic Substring.iml" filepath="$PROJECT_DIR$/5. Longest Palindromic Substring/5. Longest Palindromic Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7. Reverse Integer/7. Reverse Integer.iml" filepath="$PROJECT_DIR$/7. Reverse Integer/7. Reverse Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8. String to Integer/8. String to Integer.iml" filepath="$PROJECT_DIR$/8. String to Integer/8. String to Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetCode.iml" filepath="$PROJECT_DIR$/leetCode.iml" />
+    </modules>
+  </component>
+</project>
