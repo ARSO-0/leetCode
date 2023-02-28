@@ -3,23 +3,37 @@ public class Main {
         String s = "aa";
         String p = "a*";
 
-        if(p.length() > s.length()){
-            System.out.println("false");
-        }
+       int sIndex = 0;
+        Character currentChar = null;
+       Character prevChar = null;
+       Character currentToken = null;
+       Character prevToken = null;
+       boolean astrixFlag = false;
 
-        boolean result = false;
-        int j = 0;
-        for (int i = 0; i < p.length(); i++) {
-            if(Character.isAlphabetic(p.charAt(i)) && p.charAt(j) == s.charAt(i)){
-                j++;
-                continue;
-            } else if(p.charAt(i) == '.'){
-
-            } else if(p.charAt(i) == '*' && ((p.charAt(i-1) == s.charAt(j)) || (p.charAt(i-1) == '.'))){
-                j++;
-                continue;
+        for(int i = 0; i < p.length(); i++) {
+            currentToken = p.charAt(i);
+            if(i+1 < p.length() && p.charAt(i+1) == '*'){
+                astrixFlag = true;
+            } else {
+                astrixFlag = false;
             }
-            break;
+
+            currentChar = s.charAt(sIndex);
+
+            switch (currentToken) {
+                case '.':
+                    sIndex++;
+                    prevToken = currentToken;
+                    prevChar = currentChar;
+                    break;
+                case '*':
+                    break;
+                default:
+                    if(astrixFlag == true && )
+                    break;
+            }
+
+
         }
     }
 }
